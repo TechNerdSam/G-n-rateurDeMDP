@@ -38,7 +38,7 @@ Suivez ces étapes simples pour mettre en œuvre le générateur de mots de pass
 1.  **Obtenir le Code Source :**
     * Si vous utilisez Git, clonez le dépôt :
         ```bash
-        git clone [https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
+        git clone https://github.com/technerdsam/futuristic-clock-app.git
         cd password-generator/GenerateurDeMDP/PasswordGeneratorApp
         ```
     * Autrement, téléchargez et décompressez le fichier ZIP contenant le code source. Accédez au répertoire `GenerateurDeMDP/PasswordGeneratorApp`.
@@ -120,7 +120,7 @@ Follow these simple steps to implement the password generator:
 1.  **Obtain the Source Code:**
     * If you use Git, clone the repository:
         ```bash
-        git clone [https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git](https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git)
+        git clone git clone https://github.com/technerdsam/futuristic-clock-app.git
         cd password-generator/GenerateurDeMDP/PasswordGeneratorApp
         ```
     * Alternatively, download and decompress the ZIP file containing the source code. Navigate to the `GenerateurDeMDP/PasswordGeneratorApp` directory.
