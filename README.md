@@ -38,7 +38,7 @@ Suivez ces étapes simples pour mettre en œuvre le générateur de mots de pass
 1.  **Obtenir le Code Source :**
     * Si vous utilisez Git, clonez le dépôt :
         ```bash
-        git clone https://github.com/technerdsam/GenerateurDeMDP .git
+        git clone https://github.com/technerdsam/GenerateurDeMDP.git
         cd password-generator/GenerateurDeMDP/PasswordGeneratorApp
         ```
     * Autrement, téléchargez et décompressez le fichier ZIP contenant le code source. Accédez au répertoire `GenerateurDeMDP/PasswordGeneratorApp`.
